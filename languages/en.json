@@ -1,0 +1,10 @@
+{
+    "title":"Questions and Feedback",
+    "about":"Too afraid to ask? Want to give me some feedback? No problem at all; just fill in the anonymous e-mail form below!",
+    "subject_placeholder":"Subject (optional)",
+    "message_placeholder":"Please enter your message...",
+    "send_button":"Send",
+    "success":"Your message was sent successfully!",
+    "error":"Unable to send message! Please ensure you're connected to the internet. If the problem persists, please contact ",
+    "recipient":"kilakOri@proton.me"
+}

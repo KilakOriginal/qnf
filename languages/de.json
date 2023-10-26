@@ -1,0 +1,10 @@
+{
+    "title":"Fragen und Rückmeldungen",   
+    "about":"Falls ihr Fragen zu Vorlesungsinhalten, Haus- oder Präsenzaufgaben haben solltet, könnt ihr diese hier anonym stellen. Auch nehme ich über dieses Formular gerne Feedback entgegen!",
+    "subject_placeholder":"Betreff (optional)",
+    "message_placeholder":"Hier die Frage oder Feedback eingeben...",
+    "send_button":"Senden",
+    "success":"Die Nachricht wurde erfolgreich versendet!",
+    "error":"Die Anfrage konnte leider nicht übermittelt werden! Stell bitte sicher, dass du mit dem Internet verbunden bist und versuche es erneut. Sollte das Problem weiterhin bestehen, wende dich bitte an ",
+    "recipient":"kilakOri@proton.me"
+}
