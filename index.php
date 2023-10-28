@@ -22,7 +22,7 @@ $recipient = $text["recipient"];
 
 if(isset($_POST["submit"]))
 {
-    $subject = "[Kummerkasten] " . $_POST["subject"];
+    $subject = "[QnF] " . $_POST["subject"];
     $message = $_POST["message"];
     if(mail($recipient, $subject, $message)) {
         header("Location: success.php?lang=$lang");
